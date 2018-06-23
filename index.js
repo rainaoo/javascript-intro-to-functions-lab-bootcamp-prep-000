@@ -1,4 +1,4 @@
-function sayHiToGrandma('I love you', 'Grandma') {
+function sayHiToGrandma("I love you, Grandma") {
   return string.toUpperCase()
-  console.log(string.toUpperCase())
+  console.log(ssayHiToGrandma.toUpperCase())
 }
